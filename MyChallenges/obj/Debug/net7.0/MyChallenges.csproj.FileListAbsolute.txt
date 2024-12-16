@@ -1,0 +1,14 @@
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\bin\Debug\net7.0\MyChallenges.exe
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\bin\Debug\net7.0\MyChallenges.deps.json
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\bin\Debug\net7.0\MyChallenges.runtimeconfig.json
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\bin\Debug\net7.0\MyChallenges.dll
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\bin\Debug\net7.0\MyChallenges.pdb
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\obj\Debug\net7.0\MyChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\obj\Debug\net7.0\MyChallenges.AssemblyInfoInputs.cache
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\obj\Debug\net7.0\MyChallenges.AssemblyInfo.cs
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\obj\Debug\net7.0\MyChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\obj\Debug\net7.0\MyChallenges.dll
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\obj\Debug\net7.0\refint\MyChallenges.dll
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\obj\Debug\net7.0\MyChallenges.pdb
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\obj\Debug\net7.0\MyChallenges.genruntimeconfig.cache
+C:\Users\Reinan\RiderProjects\MyAdvancedChallenges\MyChallenges\obj\Debug\net7.0\ref\MyChallenges.dll
