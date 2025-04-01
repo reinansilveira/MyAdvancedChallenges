@@ -1,4 +1,5 @@
 ﻿using MyChallenges.ChallengesDirectory.BinaryArraySearch;
+using MyChallenges.ChallengesDirectory.PalindromicNumber;
 
 class Program
 {
@@ -6,9 +7,9 @@ class Program
    
     public static void Main(string[] args)
     {
-        SeachBinary searchBinary = new SeachBinary();
+        PalindromicNumberServices palindromicNumber = new PalindromicNumberServices();
 
-        var result = searchBinary.Ordenation();
+        var result = palindromicNumber.ConvertPalindromicString();
         
         Console.WriteLine(string.Join(", ", result));
     }
